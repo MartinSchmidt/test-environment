@@ -1,2 +1,8 @@
 installCNI: false
 monitorNidhogg: false
+
+yggdrasil:
+  repoURL: "https://github.com/martinschmidt/test-environment.git"
+  targetRevision: "main"
+
+#  nidhogg-1.0.17
